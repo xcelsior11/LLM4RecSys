@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+artifacts/*.parquet
+artifacts/overlaps_*.parquet
+artifacts/sched_*.parquet
+artifacts/item_catalog.parquet
+artifacts/train_interactions.parquet
+artifacts/val_interactions.parquet
+.cache/
